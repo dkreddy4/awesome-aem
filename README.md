@@ -2,7 +2,8 @@
 
 
 ### Commerce Integration 
-* http://www.slideshare.net/meryll-blanchet/aem-hub-2014-ecommerce-integration https://vimeo.com/62251523
+* http://www.slideshare.net/meryll-blanchet/aem-hub-2014-ecommerce-integration 
+* https://vimeo.com/62251523
 
 ### Best Practices 
 * http://www.slideshare.net/GabrielWalt/aem-bestpractices?related=1
