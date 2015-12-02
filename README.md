@@ -27,6 +27,10 @@
 * Static Asset URL rewrite - http://adobe-consulting-services.github.io/acs-aem-commons/features/static-reference-rewriter.html
 * Programmatically access AEM repo - https://helpx.adobe.com/experience-manager/using/using-sling-apis.html
 
+### Identity Management
+* https://docs.adobe.com/docs/en/cq/5-6-1/administering/identity_management.html
+* https://github.com/apache/jackrabbit-oak/tree/trunk/oak-auth-external
+* http://www.wemblog.com/2012/06/how-to-add-custom-login-module-in-cq55.html
 
 ### Frameworks
 * http://neba.io/quickstart.html
